@@ -1,0 +1,128 @@
+@font-face {
+  font-family: 'Futura-Bold';
+  src: url('../fonts/Futura-Bold.eot?#iefix') format('embedded-opentype'),  url('../fonts/Futura-Bold.woff') format('woff'), url('../fonts/Futura-Bold.ttf')  format('truetype'), url('../fonts/Futura-Bold.svg#Futura-Bold') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+.mc_containercc
+{
+	width:1200px;
+	height:685px;
+    background-image: url("../img/mc_bg.png");
+	background-size: 100% 100%;
+}
+.mcp_left {
+    padding: 10px;
+}
+.mcp_left img {
+    height: 80px;
+}
+.mc_main_head {
+    background-image: url("../img/mc_header.png");
+	background-size: 100% 100%;
+	height: 113px;
+}
+.mc_right {
+    padding-top: 14%;
+}
+.mc_middle span {
+    text-transform: uppercase;
+    font-family: 'Futura-Bold';
+    font-size: 40px;
+    text-align: left;
+    vertical-align: bottom;
+	color:#fff;
+	font-style: italic;
+}
+.mc_middle  span span:nth-child(1) {
+  font-size: 50px !important;
+  top: 14px;
+  position: relative;
+}
+.mc_middle  span span:nth-child(2) {
+    color: #fff !important;
+    font-size: 26px;
+    left: 3.5%;
+    position: relative;
+	top: 5px;
+}
+.mc_team_logo {
+    background: #fff;
+	padding: 10px;
+	border-radius: 7px;
+	right: 32%;
+	position: relative;
+	width: 430px;
+}
+.mc_team_logo img {
+    width: 100%;
+}
+.mc_stats
+{
+	left: 60px;
+	position: relative;
+}
+.mc_stats span
+{
+	font-family: 'Futura-Bold';
+	text-transform:uppercase;
+}
+.mc_stats span:nth-child(1) h2
+{
+	font-size:92px;
+	margin-top:0px;
+}
+.mc_stats span:nth-child(1) h3
+{
+	font-size:55px;
+}
+.mc_stats span:nth-child(1) h3,.mc_stats span:nth-child(1) h2
+{
+	color: #FABC09;
+	color: #FABC09;
+	font-style: italic;
+	text-shadow: 1.5px 1.5px #fff;
+	font-family: 'Futura-Bold';
+	text-transform:uppercase;
+	margin-top: 0px !important;
+	margin-bottom: 0px !important;
+	
+}
+.mc_stats  table td
+{
+	font-family: 'Futura-Bold';
+	text-transform:uppercase;
+	color:#fff;
+	font-weight:bold;
+}
+.mc_stats  table
+{
+	width:50%;
+}
+.mc_stats  table tr td:nth-child(1) span
+{
+	font-size: 12em;
+}
+.mc_stats  table tr td:nth-child(2) span
+{
+	font-size:35px;
+}
+.mc_stats  table tr:nth-child(2) td
+{
+ font-size: 31px;
+
+}
+.mc_rin
+{
+	padding-top:35px;
+}
+.mc_stats  table tr td:nth-child(2)
+{
+	line-height: 37px;
+}
+.mc_runs
+{
+	font-size: 88px !important;
+	margin-bottom: 0px;
+	line-height: 66px;
+}
